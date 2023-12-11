@@ -15,7 +15,7 @@ _Create a GitHub Action and use it in a workflow._
 
 <!--
   <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps. :smile:_
+  Review what we learned, ask for feedback, provide next steps._
 -->
 
 ## Finish
